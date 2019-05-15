@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 Machine Learning come across many different terms such as `artificial intelligence`, `machine learning`, `neural network`, and `deep learning`. But what do these terms actually mean and how do they relate to each other?
 
 Below given a brief description of these terms:
@@ -18,3 +18,17 @@ To over simplify — in supervised learning you know what you want to teach the 
 
 ## Applications of Machine Learning
 Coming soon......
+## Prerequisites
+Coming soon.....
+#### - Introduction to Python
+
+# Introduction to Machine Learning
+## What is Machine Learning?
+coming soon....
+
+There are many types of neural network architectures. However, no matter what architecture you choose, the math it contains (what calculations are being performed, and in what order) is not modified during training. Instead, it is the internal variables (“weights” and “biases”) which are updated during training.
+
+For example, in the Fahrenheit to Celsius conversion problem, the model starts by multiplying the input by some number (the weight) and adding another number (the bias). Training the model involves finding the right values for these variables, not changing from multiplication and addition to some other operation.
+
+#### Fahrenheit to Celsius conversion problem
+#### Celsius to Fahrenheit conversion problem
