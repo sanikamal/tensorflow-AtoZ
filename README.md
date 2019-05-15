@@ -33,7 +33,7 @@ For example, in the Fahrenheit to Celsius conversion problem, the model starts b
 #### Fahrenheit to Celsius conversion problem
 #### Celsius to Fahrenheit conversion problem
 
-Some ML Terminology:
+## Some key terms used in Machine Learning
 
 - **Feature:** The input(s) to our model
 - **Examples:** An input/output pair used for training
