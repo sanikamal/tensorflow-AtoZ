@@ -56,3 +56,11 @@ For example, in the Fahrenheit to Celsius conversion problem, the model starts b
 - **Softmax:** A function that provides probabilities for each possible output class
 - **Classification:** A machine learning model used for distinguishing among two or more output categories
 
+## Image Classification Fashion MNIST dataset
+The Fashion MNIST dataset contains 70,000 greyscale images of clothing. We used 60,000 of them to train our network and 10,000 of them to test its performance. In order to feed these images into our neural network we had to flatten the 28 × 28 images into 1d vectors with 784 elements. Our network consisted of a fully connected layer with 128 units (neurons) and an output layer with 10 units, corresponding to the 10 output labels. These 10 outputs represent probabilities for each class. The softmax activation function calculated the probability distribution.
+
+## Classifying Images of Clothing
+
+#### The differences between regression and classification problems.
+- **Regression:** A model that outputs a single value. For example, an estimate of a house’s value.
+- **Classification:** A model that outputs a probability distribution across several categories. For example, in Fashion MNIST, the output was 10 probabilities, one for each of the different types of clothing.We use Softmax as the activation function in our last Dense layer to create this probability distribution.
