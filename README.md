@@ -15,3 +15,6 @@ Below given a brief description of these terms:
 **Machine learning** and **deep learning** also have many subfields, branches, and special techniques. A notable example of this diversity is the separation of **Supervised Learning** and **Unsupervised Learning**.
 
 To over simplify — in supervised learning you know what you want to teach the computer, while unsupervised learning is about letting the computer figure out what can be learned. Supervised learning is the most common type of machine learning.
+
+## Applications of Machine Learning
+Coming soon......
