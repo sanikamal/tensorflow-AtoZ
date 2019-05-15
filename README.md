@@ -64,3 +64,4 @@ The Fashion MNIST dataset contains 70,000 greyscale images of clothing. We used 
 #### The differences between regression and classification problems.
 - **Regression:** A model that outputs a single value. For example, an estimate of a house’s value.
 - **Classification:** A model that outputs a probability distribution across several categories. For example, in Fashion MNIST, the output was 10 probabilities, one for each of the different types of clothing.We use Softmax as the activation function in our last Dense layer to create this probability distribution.
+![table](images/table-v3.png)
