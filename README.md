@@ -84,3 +84,12 @@ Convolutional layers can be added to the neural network model using the `Conv2D`
 - **Downsampling:** The act of reducing the size of an image
 
 ### Image Classification with CNNs
+
+## Techniques to Prevent Overfitting
+
+Three different techniques to prevent overfitting:
+- **Early Stopping:** In this method, we track the loss on the validation set during the training phase and use it to determine when to stop training such that the model is accurate but not overfitting.
+
+- **Image Augmentation:** Artificially boosting the number of images in our training set by applying random image transformations to the existing images in the training set.
+
+- **Dropout:** Removing a random selection of a fixed number of neurons in a neural network during training.
